@@ -13,7 +13,7 @@ This repository contains an implementation of a Dicrete-Event simulation of the 
 
 (4) main.py: Executes the games and compute winning rates.
 
-(5) Report.pdf: Contains a full explanation of the code and an analysis of the different strategies.
+(5) LAMA-game.pdf: Contains a full explanation of the code and an analysis of the different strategies.
 
 
 # Description of the possible strategies
