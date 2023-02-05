@@ -1,6 +1,6 @@
 # LAMA-game
 
-This repository contains an implementation of a Dicrete-Event simulation of the LAMA game in Python. This project was done as an assignment from the MSc level course "Advanced Simulation" at the Eindhoven University of Technology.
+This repository contains an implementation of a Dicrete-Event simulation of the LAMA game in Python. This project was done as an assignment from the MSc level course "Advanced Simulation" at the Eindhoven University of Technology on February 21st, 2022.
 
 
 # Description of the files
